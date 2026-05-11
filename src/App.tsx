@@ -135,8 +135,8 @@ function App() {
               </p>
             </div>
             <div className="rounded-2xl border border-stone-700 bg-stone-950 p-4 text-sm text-stone-300">
-              <p className="mb-3 font-medium text-stone-100">Как нас найти</p>
-              <p>
+              
+            
               
               </p>
               <p className="mt-4 text-amber-200">Бронирование столов желательно в вечернее время.</p>
