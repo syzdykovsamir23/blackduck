@@ -137,7 +137,7 @@ function App() {
             <div className="rounded-2xl border border-stone-700 bg-stone-950 p-4 text-sm text-stone-300">
               <p className="mb-3 font-medium text-stone-100">Как нас найти</p>
               <p>
-                https://2gis.kz/astana/search/black%20duck/firm/70000001059834146/71.401946%2C51.130756?m=71.443112%2C51.129748%2F10.69
+              
               </p>
               <p className="mt-4 text-amber-200">Бронирование столов желательно в вечернее время.</p>
             </div>
