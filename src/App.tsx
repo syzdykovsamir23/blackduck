@@ -138,7 +138,7 @@ function App() {
               
             
               
-              </p>
+              
               <p className="mt-4 text-amber-200">Бронирование столов желательно в вечернее время.</p>
             </div>
           </div>
