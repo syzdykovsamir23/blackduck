@@ -123,11 +123,11 @@ function App() {
             <div className="space-y-4">
               <p className="flex items-center gap-3">
                 <MapPin className="h-5 w-5 text-amber-300" />
-                Астана, Black Duck (локация из Google Maps)
+                Астана, Проспект Туран, 37/9
               </p>
               <p className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-amber-300" />
-                +7 (7172) 000-000
+                +7 (778) 322-0852
               </p>
               <p className="flex items-center gap-3">
                 <Clock3 className="h-5 w-5 text-amber-300" />
